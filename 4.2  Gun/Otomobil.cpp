@@ -14,7 +14,8 @@
 		cout << "fiyat : " << fiyat << endl;
 		cout << "model : " << model << endl;
 	}
-
+	// set değer atamak için
+	// get atadığın değeri almak için 
 	 
 	void Otomobil::setKoltukSayisi(int _koltukSayisi) {
 		koltukSayisi = _koltukSayisi;
